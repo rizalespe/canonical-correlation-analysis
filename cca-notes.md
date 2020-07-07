@@ -1,4 +1,10 @@
-## Canonical Correlation Analysis
+## Canonical Correlation Analysis (CCA)
+
+### Langkah-langkah dalam CCA
+1. Estimating Canonical Functions: 
+2. Assessing Overall Model Fit
+3. Interpreting the Canonical Variates
+4. Rotation of Structure and Canonical Coefficients
 
 *Referensi:* 
 - Understanding How Schools Work with Canonical Correlation Analysis https://towardsdatascience.com/understanding-how-schools-work-with-canonical-correlation-analysis-4c9a88c6b913
